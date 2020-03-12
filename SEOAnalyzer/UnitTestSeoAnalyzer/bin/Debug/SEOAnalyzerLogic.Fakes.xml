@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SEOAnalyzerLogic.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic">
+            <summary>Shim type of SEOAnalyzerLogic.SEOSubmitLogic</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.#ctor(SEOAnalyzerLogic.SEOSubmitLogic)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.AllInstances.GetAnchorListHtmlDocument">
+            <summary>Sets the shim of SEOSubmitLogic.GetAnchorList(HtmlDocument doc)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.AllInstances.GetContentStringString">
+            <summary>Sets the shim of SEOSubmitLogic.GetContentString(String Url)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.AllInstances.GetHtmlComponentlistStringTypeSearchType">
+            <summary>Sets the shim of SEOSubmitLogic.GetHtmlComponentlist(String content, Type type, SearchType searchtype)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.AllInstances.GetMetadataListHtmlDocument">
+            <summary>Sets the shim of SEOSubmitLogic.GetMetadataList(HtmlDocument doc)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.AllInstances.GetSEOResultListOfStringListOfString">
+            <summary>Sets the shim of SEOSubmitLogic.GetSEOResult(List`1&lt;String&gt; listOfRawText, List`1&lt;String&gt; stopWordList)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.AllInstances.GetTextListHtmlDocument">
+            <summary>Sets the shim of SEOSubmitLogic.GetTextList(HtmlDocument doc)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.AllInstances.ReadStopWordFileString">
+            <summary>Sets the shim of SEOSubmitLogic.ReadStopWordFile(String path)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.AllInstances.countOfStringStringListOfString">
+            <summary>Sets the shim of SEOSubmitLogic.countOfString(String searchText, List`1&lt;String&gt; textList)</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.Bind(SEOAnalyzerLogic.ISeoSubmitLogic)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.Constructor">
+            <summary>Sets the shim of SEOSubmitLogic.SEOSubmitLogic()</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.GetAnchorListHtmlDocument">
+            <summary>Sets the shim of SEOSubmitLogic.GetAnchorList(HtmlDocument doc)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.GetContentStringString">
+            <summary>Sets the shim of SEOSubmitLogic.GetContentString(String Url)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.GetHtmlComponentlistStringTypeSearchType">
+            <summary>Sets the shim of SEOSubmitLogic.GetHtmlComponentlist(String content, Type type, SearchType searchtype)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.GetInstanceGet">
+            <summary>Sets the shim of SEOSubmitLogic.get_GetInstance()</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.GetMetadataListHtmlDocument">
+            <summary>Sets the shim of SEOSubmitLogic.GetMetadataList(HtmlDocument doc)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.GetSEOResultListOfStringListOfString">
+            <summary>Sets the shim of SEOSubmitLogic.GetSEOResult(List`1&lt;String&gt; listOfRawText, List`1&lt;String&gt; stopWordList)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.GetTextListHtmlDocument">
+            <summary>Sets the shim of SEOSubmitLogic.GetTextList(HtmlDocument doc)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.ReadStopWordFileString">
+            <summary>Sets the shim of SEOSubmitLogic.ReadStopWordFile(String path)</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.StaticConstructor">
+            <summary>Sets the shim of SEOSubmitLogic.SEOSubmitLogic()</summary>
+        </member>
+        <member name="P:SEOAnalyzerLogic.Fakes.ShimSEOSubmitLogic.countOfStringStringListOfString">
+            <summary>Sets the shim of SEOSubmitLogic.countOfString(String searchText, List`1&lt;String&gt; textList)</summary>
+        </member>
+        <member name="T:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic">
+            <summary>Stub type of SEOAnalyzerLogic.ISeoSubmitLogic</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.#ctor">
+            <summary>Initializes a new instance of type StubISeoSubmitLogic</summary>
+        </member>
+        <member name="F:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.CountOfStringStringListOfString">
+            <summary>Sets the stub of ISeoSubmitLogic.countOfString(String searchText, List`1&lt;String&gt; textList)</summary>
+        </member>
+        <member name="F:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.GetContentStringString">
+            <summary>Sets the stub of ISeoSubmitLogic.GetContentString(String Url)</summary>
+        </member>
+        <member name="F:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.GetHtmlComponentlistStringTypeSearchType">
+            <summary>Sets the stub of ISeoSubmitLogic.GetHtmlComponentlist(String content, Type type, SearchType searchtype)</summary>
+        </member>
+        <member name="F:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.GetSEOResultListOfStringListOfString">
+            <summary>Sets the stub of ISeoSubmitLogic.GetSEOResult(List`1&lt;String&gt; listOfRawText, List`1&lt;String&gt; stopWordList)</summary>
+        </member>
+        <member name="F:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.ReadStopWordFileString">
+            <summary>Sets the stub of ISeoSubmitLogic.ReadStopWordFile(String path)</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.SEOAnalyzerLogic#ISeoSubmitLogic#GetContentString(System.String)">
+            <summary>Sets the stub of ISeoSubmitLogic.GetContentString(String Url)</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.SEOAnalyzerLogic#ISeoSubmitLogic#GetHtmlComponentlist(System.String,SEOAnalyzerLogic.Type,SEOAnalyzerLogic.SearchType)">
+            <summary>Sets the stub of ISeoSubmitLogic.GetHtmlComponentlist(String content, Type type, SearchType searchtype)</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.SEOAnalyzerLogic#ISeoSubmitLogic#GetSEOResult(System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String})">
+            <summary>Sets the stub of ISeoSubmitLogic.GetSEOResult(List`1&lt;String&gt; listOfRawText, List`1&lt;String&gt; stopWordList)</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.SEOAnalyzerLogic#ISeoSubmitLogic#ReadStopWordFile(System.String)">
+            <summary>Sets the stub of ISeoSubmitLogic.ReadStopWordFile(String path)</summary>
+        </member>
+        <member name="M:SEOAnalyzerLogic.Fakes.StubISeoSubmitLogic.SEOAnalyzerLogic#ISeoSubmitLogic#countOfString(System.String,System.Collections.Generic.List{System.String})">
+            <summary>Sets the stub of ISeoSubmitLogic.countOfString(String searchText, List`1&lt;String&gt; textList)</summary>
+        </member>
+    </members>
+</doc>

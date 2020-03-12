@@ -1,0 +1,22 @@
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\SEOAnalyzerLogic.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\SEOAnalyzerLogic.pdb
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\SEOBO.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\SEOBO.pdb
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Debug\SEOAnalyzerLogic.csprojResolveAssemblyReference.cache
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Debug\SEOAnalyzerLogic.csproj.CoreCompileInputs.cache
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Debug\SEOAnalyzerLogic.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Debug\SEOAnalyzerLogic.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\SEOAnalyzerLogic.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\SEOAnalyzerLogic.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\Microsoft.mshtml.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\SEOBO.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\SEOBO.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Debug\SEOAnalyzerLogic.csprojAssemblyReference.cache
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Debug\SEOAnalyzerLogic.csproj.CoreCompileInputs.cache
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Debug\SEOAnalyzerLogic.csproj.CopyComplete
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Debug\SEOAnalyzerLogic.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Debug\SEOAnalyzerLogic.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\HtmlAgilityPack.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\HtmlAgilityPack.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Debug\HtmlAgilityPack.xml

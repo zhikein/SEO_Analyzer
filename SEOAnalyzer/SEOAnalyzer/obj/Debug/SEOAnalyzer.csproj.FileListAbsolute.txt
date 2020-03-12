@@ -1,0 +1,100 @@
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\ApplicationInsights.config
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzer.dll.config
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzer.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzer.pdb
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Antlr3.Runtime.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Web.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Newtonsoft.Json.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Net.Http.Formatting.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Http.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Http.WebHost.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Optimization.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\WebGrease.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Optimization.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Antlr3.Runtime.pdb
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Newtonsoft.Json.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Net.Http.Formatting.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Http.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Http.WebHost.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Web.xml
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.pdb
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.mshtml.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzerLogic.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOBO.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzerLogic.pdb
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOBO.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\ApplicationInsights.config
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzer.dll.config
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzer.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzer.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Antlr3.Runtime.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\AspNet.ScriptManager.bootstrap.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\AspNet.ScriptManager.jQuery.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Agent.Intercept.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.DependencyCollector.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Web.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.WindowsServer.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ApplicationInsights.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.mshtml.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ScriptManager.WebForms.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Web.Infrastructure.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Newtonsoft.Json.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzerLogic.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOBO.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Net.Http.Formatting.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Http.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Http.WebHost.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Optimization.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\WebGrease.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzerLogic.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOBO.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Optimization.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Antlr3.Runtime.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Newtonsoft.Json.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Net.Http.Formatting.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Http.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Http.WebHost.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ApplicationInsights.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.DependencyCollector.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.WindowsServer.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Web.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.csprojAssemblyReference.cache
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.csproj.CoreCompileInputs.cache
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.csproj.CopyComplete
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\HtmlAgilityPack.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\HtmlAgilityPack.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\HtmlAgilityPack.xml

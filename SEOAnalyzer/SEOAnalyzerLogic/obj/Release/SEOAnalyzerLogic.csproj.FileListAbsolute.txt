@@ -1,0 +1,13 @@
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Release\SEOAnalyzerLogic.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Release\SEOAnalyzerLogic.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Release\HtmlAgilityPack.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Release\Microsoft.mshtml.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Release\SEOBO.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Release\SEOBO.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Release\HtmlAgilityPack.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\bin\Release\HtmlAgilityPack.xml
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Release\SEOAnalyzerLogic.csprojAssemblyReference.cache
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Release\SEOAnalyzerLogic.csproj.CoreCompileInputs.cache
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Release\SEOAnalyzerLogic.csproj.CopyComplete
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Release\SEOAnalyzerLogic.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzerLogic\obj\Release\SEOAnalyzerLogic.pdb

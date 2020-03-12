@@ -1,0 +1,6 @@
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\bin\Release\SEOBO.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\bin\Release\SEOBO.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Release\SEOBO.csprojAssemblyReference.cache
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Release\SEOBO.csproj.CoreCompileInputs.cache
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Release\SEOBO.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Release\SEOBO.pdb

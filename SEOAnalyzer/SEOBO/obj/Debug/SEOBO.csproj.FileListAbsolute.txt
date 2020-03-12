@@ -1,0 +1,11 @@
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOBO\bin\Debug\SEOBO.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOBO\bin\Debug\SEOBO.pdb
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Debug\SEOBO.csproj.CoreCompileInputs.cache
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Debug\SEOBO.dll
+C:\Users\Uber-Zhi Kein\Desktop\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Debug\SEOBO.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\bin\Debug\SEOBO.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\bin\Debug\SEOBO.pdb
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Debug\SEOBO.csprojAssemblyReference.cache
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Debug\SEOBO.csproj.CoreCompileInputs.cache
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Debug\SEOBO.dll
+D:\laptop\Personal\Project\SEOAnalyzer\SEOAnalyzer\SEOBO\obj\Debug\SEOBO.pdb

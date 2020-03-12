@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SEOAnalyzer.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %></title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="Content/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="Content/Site.css" rel="stylesheet" type="text/css"  />
+    <script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/sso-main/Admin/js/jquery.1.10.2.min.js"></script>
+
+    <script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/sso-main/Admin/js/html5shiv.js"></script>
+    <script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/sso-main/Admin/js/respond.min.js"></script>
+    <script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/sso-main/Admin/js/jquery-ui-1.10.4.custom.min.js"></script>
+    <script type="text/javascript" src="https://s3-ap-southeast-1.amazonaws.com/sso-main/Admin/js/jquery.tablesorter.min.js"></script>
+    <link href="Content/stylev1.min.css" rel="stylesheet" />
+        <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">SEO Analyzer</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/Web/SEOAnalyzer/Submit.aspx"></a>Submit text or URL here.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>

@@ -1,1 +1,1 @@
-asd
+this is for sitecore interview purpose only.
